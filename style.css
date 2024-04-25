@@ -1,15 +1,17 @@
 body {
-  background-color: #4a4648;
+  background-color: #000000;
 }
 
 h1 {
 
-  color: #ffe0cc;
+  color: #ffffff;
+  text-align: center;
+  font-size: 40pt;
 
 }
 
 .credit {
 
-  color: #ffe0cc;
+  color: #ffffff;
 
 }
